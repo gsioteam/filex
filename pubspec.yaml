@@ -15,7 +15,7 @@ dependencies:
   open_file: ^2.0.3
   path: ^1.6.2
   pedantic: ^1.6.0
-  rxdart: ^0.22.2
+  rxdart: ">=0.22.2 <1.0.0"
   extra_pedantic: ^1.1.1+2
 
   # The following adds the Cupertino Icons font to your application.
